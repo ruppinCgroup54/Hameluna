@@ -1,0 +1,6 @@
+[submodule "Hameluna-client"]
+	path = Hameluna-client
+	url = https://github.com/ruppinCgroup54/Hameluna-client.git
+[submodule "Hameluna-server"]
+	path = Hameluna-server
+	url = https://github.com/ruppinCgroup54/Hameluna-server.git
