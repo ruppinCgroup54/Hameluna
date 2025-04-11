@@ -60,7 +60,6 @@ dotnet run
 ## 📷 Screenshots
 ![Homepage](https://github.com/user-attachments/assets/1e2009c8-c2e4-4b8a-889d-b3c46df251bd)
 
-_(Add screenshots in the `/screenshots` directory to display them here.)_
 
 ## 👨‍💻 Authors
 
