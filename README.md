@@ -1,4 +1,4 @@
-# ה̲מ̲ל̲ו̲נ̲ה (Hameluna) 🐾
+![Screenshot 2024-07-27 110621](https://github.com/user-attachments/assets/1e2009c8-c2e4-4b8a-889d-b3c46df251bd)# ה̲מ̲ל̲ו̲נ̲ה (Hameluna) 🐾
 
 **Hameluna** is a full-stack web application designed to improve dog adoption experiences and enhance shelter management. Built as a graduation project by students of Industrial Engineering & Management at Ruppin Academic Center, the app helps create smart matches between adopters and dogs using AI-driven recommendations.
 
@@ -67,8 +67,10 @@ _(Add screenshots in the `/screenshots` directory to display them here.)_
 
 ## 👨‍💻 Authors
 
-- 🧑‍💻 Developed by students of **Ruppin Academic Center**, Group 54  
-- Main Contributor: [Your Full Name] (add your LinkedIn/GitHub here if you want)
+- 🧑‍💻 Developed by students of **Ruppin Academic Center** 
+- Contributors: [Roni yehoshuan](https://github.com/RoniYehoshua)
+                    [Dolev Bash](https://github.com/DolBash)
+                    [Ben Shuna](https://github.com/BenShuan)
 
 ## 📄 License
 
