@@ -1,4 +1,4 @@
-![Screenshot 2024-07-27 110621](https://github.com/user-attachments/assets/1e2009c8-c2e4-4b8a-889d-b3c46df251bd)# ה̲מ̲ל̲ו̲נ̲ה (Hameluna) 🐾
+# ה̲מ̲ל̲ו̲נ̲ה (Hameluna) 🐾
 
 **Hameluna** is a full-stack web application designed to improve dog adoption experiences and enhance shelter management. Built as a graduation project by students of Industrial Engineering & Management at Ruppin Academic Center, the app helps create smart matches between adopters and dogs using AI-driven recommendations.
 
@@ -58,10 +58,7 @@ dotnet run
 > Don't forget to set up Firebase credentials and environment variables as required.
 
 ## 📷 Screenshots
-
-![Homepage](screenshots/homepage.png)
-![Dog Profile](screenshots/dog-profile.png)
-![Matching System](screenshots/matching.png)
+![Homepage](https://github.com/user-attachments/assets/1e2009c8-c2e4-4b8a-889d-b3c46df251bd)
 
 _(Add screenshots in the `/screenshots` directory to display them here.)_
 
